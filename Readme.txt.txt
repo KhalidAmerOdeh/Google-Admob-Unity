@@ -1,0 +1,7 @@
+When you add this package, you are about to benefit from ads from the app. The first step is to go to the AdMob package file that you added, then search for a file with the Unity Packeg (click on it to fix errors) and add the group, then go to ExternalDependencyManager>Editor>1.2.183>Google.IOSResolver.dll and delete this file
+
+Step Two
+Go to Google and create an AdMob account and make sure of the account requirements such as the registered email and the registered age in the account is greater than 18 years and then create an application and then create ad units either banner or rewarder or open app or interstitial ad then you have to copy the ID for the ad and go to Unity open the code script of the advertising unit that you added and go to the ID box  copy the (ID AD) and repeat the process with all the ads that you will add to your game after that go to Google AdMob then to the application that you created go to the application settings in the sidebar copy the application code then go to Unity go to Assist then choose Ads Google AdMob then Settings and copy the application code in the fields Android and iOS
+
+Step 3
+Build your game and congratulations, the ads have been added and are ready to be uploaded to Google Play Console or any other platform, then go to the link of your game on Google Play and copy it and add it to AdMob to link the game to AdMob
